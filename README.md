@@ -1,3 +1,7 @@
-## Getting Started With Shell Script
+## Getting Started with Shell Script
 
-This week I was searching ways to keep learning about the IT environment. After watching some videos and researching in the web I found out that in order to improve our learning in coding, and programming in general, it woul be great to start with the foundation. So I stepped into some concepts such as OS, Linux, Shell Script, and some Network concepts. This repository is a place where I'll fill with the exercises on those topics listed above. I hope everybody finds it interesting, and feel free to collaborate and send me suggestions on how to keep learning and improving. 
+This week, I was looking for ways to keep learning about the IT environment. After watching some videos and doing some research, I realized that to get better at coding—and programming in general—it’s best to start with the fundamentals.
+
+That led me to explore topics like Operating Systems, Linux, Shell Scripting, and some basic networking concepts. This repository is where I'll be adding exercises related to those topics as I learn.
+
+I hope you find it interesting! Feel free to collaborate, share suggestions, or let me know how I can keep improving. 
